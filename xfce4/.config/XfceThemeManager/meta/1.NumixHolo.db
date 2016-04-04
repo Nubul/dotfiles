@@ -1,0 +1,6 @@
+[Data]
+Name=Numix Holo
+Thumbnail=/home/reece/.config/XfceThemeManager/meta/NumixHolo.png
+GtkTheme=Numix Holo
+Xfwm4Theme=NumixHolo
+

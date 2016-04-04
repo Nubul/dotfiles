@@ -45,3 +45,7 @@ xautolock
 xclip
 xcwd-git
 yaourt
+
+dropbox
+libreoffice
+xfce4
