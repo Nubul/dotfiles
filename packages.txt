@@ -46,6 +46,11 @@ xclip
 xcwd-git
 yaourt
 
+blueman
+deluge
 dropbox
+firefox
 libreoffice
+steam
+spotify
 xfce4
