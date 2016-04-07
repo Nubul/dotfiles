@@ -17,4 +17,4 @@ link-config:
 	stow --restow `ls -d */`
 
 set-shell:
-	chsh -s 'which fish'
+	chsh -s $(which fish)
